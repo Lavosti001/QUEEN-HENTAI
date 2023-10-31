@@ -56,7 +56,7 @@ global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgsc = 'https://github.com/Lavosti001/QUEEN-HENTAI' 
 global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
+global.fglog = 'https://i.imgur.com/mIZxomw.jpeg' 
 
 
 global.wait = '*💝 _Waiting Bro Uploading by ༒♧-𝐋𝐀 𝐕𝐎𝐒𝐓𝐈-☆༒..._*'
